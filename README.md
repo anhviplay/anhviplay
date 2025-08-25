@@ -1,18 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Chèn audio mp3</title>
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            background: linear-gradient(135deg, #e3f2fd 0%, #f5f5f5 100%);
-            font-family: 'Roboto', sans-serif;
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
+  
         h2 {
             margin-top: 0;
             margin-bottom: 32px;
